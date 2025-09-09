@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning.
+I'm Full Stack Developer.
 
 
 ## 🌐 Socials:
